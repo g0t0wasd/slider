@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mystery>
+    <image>
+    images/Chrysanthemum.jpg
+    </image>
+    <image>
+        images/Desert.jpg
+    </image>
+    <image>
+        images/Hydrangeas.jpg
+    </image>
+    <image>
+        images/scarlett.jpg
+    </image>
+    <image>
+        images/Penguins.jpg
+    </image>
+    <image>
+        images/Tulips.jpg
+    </image>
+    <image>
+        images/Koala.jpg
+    </image>
+</mystery>

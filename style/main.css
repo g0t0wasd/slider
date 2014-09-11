@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: olivedrab;
+}
+#wrapper{
+    /*outline: solid red 1px;*/
+    margin: 17% auto;
+    width: 44.5%;
+    height: 300px;
+}
+#first, #second{
+    float: left;
+}
+
+#first{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    background-color: wheat;
+    overflow: hidden;
+    outline: solid white 2px;
+}
+
+#second{
+    position: relative;
+    background-color: wheat;
+    width: 3000px;
+    height: 100%;
+}
+img{
+    float: left;
+    margin: 0 5px;
+}
+img.controller{
+    position: relative;
+    top: 45%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 6%;
+}
+
+img.controller:hover{
+    cursor: pointer;
+}
